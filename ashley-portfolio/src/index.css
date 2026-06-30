@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@layer utilities {
+    .bg-berry {background-color: #A53860;}
+    .bg-apricot {background-color: #f9dbbd;}
+    .bg-candy {background-color: #FFA5AB;}
+    .bg-rose {background-color:#DA627D;}
+    .bg.maroon {background-color: #450920;}
+
+    .text-berry {color: #A53860;}
+    .text-apricot {color: #f9dbbd;}
+    .text-candy {color: #FFA5AB;}
+    .text-rose {color:#DA627D;}
+    .text.maroon {color: #450920;}
+}
